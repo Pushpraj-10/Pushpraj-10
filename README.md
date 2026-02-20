@@ -63,35 +63,6 @@ Full-stack and cross-platform developer with hands-on experience in React, Node.
 
 ---
 
-## 🛠 Featured Projects
-
-### **LAYR** — *AI-driven wireframe generation SaaS platform*  
-🔗 **Live:** https://example-live.com  
-🔗 **GitHub:** https://github.com/Pushpraj-10  
-- Built using **Next.js, Tailwind, RTK Query, Express, MongoDB**  
-- Implemented scalable SaaS design architecture  
-- Enabled automated wireframe generation using AI workflows  
-
----
-
-### **Weavely** — *AI-driven wireframe generation platform*  
-🔗 **Live:** https://example-live.com  
-🔗 **GitHub:** https://github.com/Pushpraj-10  
-- Next.js + Tailwind + RTK Query  
-- Backend with Express + MongoDB  
-- Scalable app design patterns & state management  
-
----
-
-### **LAYR (Flutter Version)**  
-🔗 **Live:** https://example-live.com  
-🔗 **GitHub:** https://github.com/Pushpraj-10  
-- Built cross-platform UI in Flutter  
-- Reused components from the web architecture  
-- Connected to the Express-MongoDB backend  
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
