@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pushpraj 👋</h1>
-<h3 align="center">Full-stack Developer • Node.js • Next.js • Flutter • React Native • Machine Learning</h3>
+<h3 align="center">Node.js • Next.js • Flutter • React Native • Machine Learning</h3>
 
 ---
 
