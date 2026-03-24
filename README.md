@@ -11,8 +11,7 @@ Full-stack developer experienced in building scalable web and mobile application
 
 ## Contact
 - **Email:** pushpraj.nareti@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pushpraj-nareti-5b90a3325  
-- **GitHub:** https://github.com/Pushpraj-10  
+- **LinkedIn:** https://www.linkedin.com/in/pushpraj-nareti-5b90a3325
 
 ---
 
