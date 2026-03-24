@@ -4,7 +4,7 @@
 
 **Full-Stack & Cross-Platform Developer**
 
-Node.js · Next.js · React · Flutter · React Native · Machine Learning
+Node.js · Next.js · Flutter · React Native · Machine Learning
 
 [![Email](https://img.shields.io/badge/Email-pushpraj.nareti%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:pushpraj.nareti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpraj_Nareti-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpraj-nareti-5b90a3325)
